@@ -10,7 +10,6 @@
 - TypeScript
 - Prettier
 - ESLint
-- Storybook
 - Tailwindcss
 - Flowbite
 
