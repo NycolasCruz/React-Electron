@@ -1,4 +1,4 @@
-<h1 align="center">React Boilerplate</h1>
+<h1 align="center">React com Electron</h1>
 
 ## 🚀 Tecnologias
 
@@ -6,6 +6,7 @@
 
 - ReactJS
 - Vite
+- ElectronJS
 - TypeScript
 - Prettier
 - ESLint
@@ -15,16 +16,11 @@
 
 ## 🖥️ Sobre
 
-<p align="justify">Projeto open source de um boilerplate de uma aplicação React gerada com Vite, que possui ESLint + Prettier, aliases path, Storybook, sidebar e navbar responsivos, dark mode e tailwind.</p>
+<p align="justify">Projeto para estudos práticos de como rodar um sistema feito em React em uma aplicação desktop com o Eectron.</p>
 
-## 🔧 Principais Comandos Utilizados
+## 🔧 Características
 
-- yarn create vite (Vite)
-- yarn create @eslint/config (ESLint)
-- yarn add eslint-config-prettier prettier -D (Prettier)
-- npx storybook@latest init (Storybook)
-- yarn add -D tailwindcss postcss autoprefixer (Tailwindcss)
-- npx tailwindcss init -p (Tailwindcss init)
+- [x] Projeto Base Finalizado
 
 ## 🕹️ Instalação
 
@@ -34,7 +30,7 @@ Instale também o Yarn caso não o tenha com o comando ````npm i -g yarn````, em
 
 Utilize o comando ````yarn```` para instalar os pacotes necessários.
 
-OBS: o deploy desta aplicação está sendo feito <a href="https://react-boilerplatee.netlify.app" target="_blank">neste link</a>.
+Utilize o comando ````yarn electron```` para iniciar a aplicação.
 
 ## 🐧 Autor
 
