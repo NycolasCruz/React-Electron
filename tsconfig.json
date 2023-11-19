@@ -30,6 +30,6 @@
 			"public/*": ["public/*"]
 		}
 	},
-	"include": ["src", "main.ts"],
+	"include": ["src", "main.js"],
 	"references": [{ "path": "./tsconfig.node.json" }]
 }
