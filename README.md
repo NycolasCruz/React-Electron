@@ -19,7 +19,7 @@
 
 ## 🔧 Características
 
-- [x] Projeto Base Finalizado
+- [x] Projeto configurado para rodar como uma aplicação desktop
 
 ## 🕹️ Instalação
 
@@ -29,7 +29,9 @@ Instale também o Yarn caso não o tenha com o comando ````npm i -g yarn````, em
 
 Utilize o comando ````yarn```` para instalar os pacotes necessários.
 
-Utilize o comando ````yarn electron```` para iniciar a aplicação.
+Rode o servidor com o comando ````yarn start````.
+
+E por fim, utilize o comando ````yarn electron```` para iniciar a aplicação.
 
 ## 🐧 Autor
 
