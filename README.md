@@ -15,7 +15,7 @@
 
 ## 🖥️ Sobre
 
-<p align="justify">Projeto para estudos práticos de como rodar um sistema feito em React em uma aplicação desktop com o Eectron.</p>
+<p align="justify">Projeto apenas para estudos, onde visa rodar um sistema React com TypeScript em um aplicativo desktop utilizando o framework ElectronJS.</p>
 
 ## 🔧 Características
 
