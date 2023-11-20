@@ -3,7 +3,7 @@
 	"private": true,
 	"version": "1.0.0",
 	"type": "commonjs",
-	"main": "main.js",
+	"main": "main.ts",
 	"scripts": {
 		"start": "vite --port 8000",
 		"lint": "eslint src --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
