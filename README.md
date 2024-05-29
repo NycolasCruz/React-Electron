@@ -2,16 +2,11 @@
 
 ## 🚀 Tecnologias
 
-<p>Projeto desenvolvido com as seguintes tecnologias:</p>
+<p>Principais tecnologias do projeto:</p>
 
 - ReactJS
-- Vite
-- ElectronJS
 - TypeScript
-- Prettier
-- ESLint
-- Tailwindcss
-- Flowbite
+- ElectronJS
 
 ## 🖥️ Sobre
 
