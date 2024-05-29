@@ -4,13 +4,13 @@
 
 <p>Principais tecnologias do projeto:</p>
 
-- ReactJS
+- React
 - TypeScript
-- ElectronJS
+- Electron
 
 ## 🖥️ Sobre
 
-<p align="justify">Projeto apenas para estudos, onde visa rodar um sistema React com TypeScript em um aplicativo desktop utilizando o framework ElectronJS.</p>
+<p align="justify">Projeto apenas para estudos, onde visa executar um sistema React com TypeScript em um aplicativo desktop utilizando o framework Electron.</p>
 
 ## 🔧 Características
 
